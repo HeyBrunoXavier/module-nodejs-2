@@ -11,4 +11,4 @@ db/*.db
 # Build
 dist
 
-package-lock
+package-lock.json
